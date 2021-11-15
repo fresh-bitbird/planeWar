@@ -17,7 +17,7 @@
 #define BULLET_NUM 30
 #define BULLET_SHOOT_INTERVAL 20
 
-#define ENEMY_PLANE_PATH ":/resource/pic/hero.png"
+#define ENEMY_PLANE_PATH ":/resource/pic/img-plane_5.png"
 #define ENEMY_PLANE_SPEED 3
 #define ENEMY_NUM 20
 #define ENEMY_INTERVAL 40
